@@ -1,2 +1,2 @@
 # Coffee_shop
-petit site de  3 pages dynamique
+petit site de  3 pages dynamiques
